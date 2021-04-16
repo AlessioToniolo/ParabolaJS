@@ -1,0 +1,22 @@
+{
+  "name": "parabolajs",
+  "version": "1.0.0",
+  "description": "A visual path generator for mobile robots using quadratic equations",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlessioToniolo/ParabolaJS.git"
+  },
+  "author": "AlessioToniolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlessioToniolo/ParabolaJS/issues"
+  },
+  "homepage": "https://github.com/AlessioToniolo/ParabolaJS#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
