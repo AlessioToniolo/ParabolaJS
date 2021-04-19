@@ -1,4 +1,4 @@
 const graph = require('./src/graph');
+const printer = require('./src/printer');
 
-// main file
-console.log("...");
+printer.printer();
